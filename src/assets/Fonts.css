@@ -1,0 +1,10 @@
+/* Rockbilly Font */
+@font-face {
+  font-family: 'Rockbilly';
+  src: url('./fonts_extracted/Rockbilly/Rockybilly.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Use only the working font and remove Rustic Roadway */ 
